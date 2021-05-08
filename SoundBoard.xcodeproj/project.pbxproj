@@ -14,6 +14,7 @@
 		EA84D60B2645BE69004128FE /* SoundBoard.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = EA84D6092645BE69004128FE /* SoundBoard.xcdatamodeld */; };
 		EA84D60D2645BE6A004128FE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EA84D60C2645BE6A004128FE /* Assets.xcassets */; };
 		EA84D6102645BE6A004128FE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EA84D60E2645BE6A004128FE /* LaunchScreen.storyboard */; };
+		EA84D6182645C6F6004128FE /* AudioViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84D6172645C6F6004128FE /* AudioViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		EA84D60C2645BE6A004128FE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EA84D60F2645BE6A004128FE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EA84D6112645BE6A004128FE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EA84D6172645C6F6004128FE /* AudioViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				EA84D6002645BE69004128FE /* AppDelegate.swift */,
 				EA84D6022645BE69004128FE /* SceneDelegate.swift */,
 				EA84D6042645BE69004128FE /* ViewController.swift */,
+				EA84D6172645C6F6004128FE /* AudioViewController.swift */,
 				EA84D6062645BE69004128FE /* Main.storyboard */,
 				EA84D60C2645BE6A004128FE /* Assets.xcassets */,
 				EA84D60E2645BE6A004128FE /* LaunchScreen.storyboard */,
@@ -145,6 +148,7 @@
 				EA84D6052645BE69004128FE /* ViewController.swift in Sources */,
 				EA84D6012645BE69004128FE /* AppDelegate.swift in Sources */,
 				EA84D6032645BE69004128FE /* SceneDelegate.swift in Sources */,
+				EA84D6182645C6F6004128FE /* AudioViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
